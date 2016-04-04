@@ -1,5 +1,5 @@
 # PyCompiler++ Also Known As PYC++
- PyCompiler++ is a python compiler build to compile Panda3D games, and to prevent source code dumps, and code injection.
+ PyCompiler++ is a python compiler built to compile Panda3D games, and to prevent source code dumps, and code injection.
 
 # Requirements:
 * Cython
